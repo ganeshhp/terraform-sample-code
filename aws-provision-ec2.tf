@@ -2,7 +2,7 @@
 #variable "aws_secret_key" {}
 #variable "private_key_path" {}
 variable "key_name"  {
-  default = "devops"
+  default = "new-key"
 }
 variable "ami_id" {
   default = "ami-094def536a7e4dcd6"
